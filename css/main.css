@@ -20,7 +20,7 @@
 
 */
 
-.blind{position: absolute; left: -99999px; font-size: 0; text-indent: -99999px;}
+
 
 /*  Fonts  */
 @font-face {
@@ -75,7 +75,7 @@
 }
 
 
-
+.blind{position: absolute; left: -99999px; font-size: 0; text-indent: -99999px;}
 
 /*  General CSS*/
 .wrapper{
@@ -241,7 +241,7 @@ header nav ul li a:hover{
 	font-size: 22px;
 	color: #4d4d4d;
 	text-transform: uppercase;
-	letter-spacing: 50;
+	letter-spacing: 50px;
 }
 
 .services ul li p{
