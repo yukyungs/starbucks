@@ -20,7 +20,7 @@
 
 */
 
-
+.blind{position: absolute; left: -99999px; font-size: 0; text-indent: -99999px; opacity: 0;}
 
 /*  Fonts  */
 @font-face {
@@ -73,9 +73,6 @@
     font-style: normal;
 
 }
-
-
-.blind{position: absolute; left: -99999px; font-size: 0; text-indent: -99999px;}
 
 /*  General CSS*/
 .wrapper{
